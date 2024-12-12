@@ -1,0 +1,20 @@
+// const Discord = require("discord.js");
+// const client = require("../../index");
+
+// module.exports = {
+//     name: "autoJoin",
+//     execute: (client) => {
+
+//     }
+// }
+
+// não esqueça de usar a função execute
+
+
+// discord developer 
+https://discord.com/developers/docs/intro
+
+1-aplications
+2-bot - token
+3- permissões = Public Bot = Privileged Gateway Intents = Presence Intent = Server Members Intent = Message Content Intent
+
