@@ -17,4 +17,3 @@ https://discord.com/developers/docs/intro
 1-aplications
 2-bot - token
 3- permissões = Public Bot = Privileged Gateway Intents = Presence Intent = Server Members Intent = Message Content Intent
-
